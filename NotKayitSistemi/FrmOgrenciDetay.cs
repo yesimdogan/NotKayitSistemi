@@ -18,15 +18,6 @@ namespace NotKayitSistemi
             InitializeComponent();
         }
 
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label11_Click(object sender, EventArgs e)
-        {
-
-        }
 
         public string numara;
 
@@ -53,19 +44,5 @@ namespace NotKayitSistemi
             baglanti.Close();
         }
 
-        private void lblNumara_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblNumara_Click_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblAdSoyad_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

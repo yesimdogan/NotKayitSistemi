@@ -62,7 +62,7 @@ namespace NotKayitSistemi
             this.label9.Size = new System.Drawing.Size(94, 24);
             this.label9.TabIndex = 1;
             this.label9.Text = "Numara :";
-            this.label9.Click += new System.EventHandler(this.lblNumara_Click);
+            
             // 
             // label6
             // 
@@ -91,7 +91,7 @@ namespace NotKayitSistemi
             this.label4.Size = new System.Drawing.Size(86, 24);
             this.label4.TabIndex = 4;
             this.label4.Text = "Sınav 3 :";
-            this.label4.Click += new System.EventHandler(this.label5_Click);
+            
             // 
             // lblSinav1
             // 
@@ -128,7 +128,7 @@ namespace NotKayitSistemi
             this.lblNumara.Size = new System.Drawing.Size(58, 24);
             this.lblNumara.TabIndex = 8;
             this.lblNumara.Text = "0000";
-            this.lblNumara.Click += new System.EventHandler(this.lblNumara_Click_1);
+            
             // 
             // lblAdSoyad
             // 
@@ -138,7 +138,7 @@ namespace NotKayitSistemi
             this.lblAdSoyad.Size = new System.Drawing.Size(64, 24);
             this.lblAdSoyad.TabIndex = 9;
             this.lblAdSoyad.Text = "NULL";
-            this.lblAdSoyad.Click += new System.EventHandler(this.lblAdSoyad_Click);
+            
             // 
             // label3
             // 
@@ -148,7 +148,7 @@ namespace NotKayitSistemi
             this.label3.Size = new System.Drawing.Size(110, 24);
             this.label3.TabIndex = 10;
             this.label3.Text = "Ortalama : ";
-            this.label3.Click += new System.EventHandler(this.label11_Click);
+            
             // 
             // lblOrtalama
             // 

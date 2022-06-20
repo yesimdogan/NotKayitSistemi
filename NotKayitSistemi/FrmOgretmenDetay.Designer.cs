@@ -124,7 +124,7 @@ namespace NotKayitSistemi
             this.label2.Size = new System.Drawing.Size(50, 24);
             this.label2.TabIndex = 3;
             this.label2.Text = "Ad : ";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
+            
             // 
             // txtAd
             // 
